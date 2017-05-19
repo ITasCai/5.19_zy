@@ -78,7 +78,7 @@ namespace _5._19_zy
 
 
             #endregion
-
+            +
         }
     }
     /// <summary>
@@ -402,7 +402,7 @@ namespace _5._19_zy
         }
 
         public void GetPrice(double distance,double price) {
-            if ()
+            if (distance>=0&&distance<=100)
             {
 
             }
